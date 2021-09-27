@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\bin\Release\net5.0\DayOfTheWeekApp.core.deps.json
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\bin\Release\net5.0\DayOfTheWeekApp.core.dll
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\bin\Release\net5.0\ref\DayOfTheWeekApp.core.dll
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\bin\Release\net5.0\DayOfTheWeekApp.core.pdb
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\obj\Release\net5.0\DayOfTheWeekApp.core.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\obj\Release\net5.0\DayOfTheWeekApp.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\obj\Release\net5.0\DayOfTheWeekApp.core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\obj\Release\net5.0\DayOfTheWeekApp.core.AssemblyInfo.cs
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\obj\Release\net5.0\DayOfTheWeekApp.core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\obj\Release\net5.0\DayOfTheWeekApp.core.dll
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\obj\Release\net5.0\ref\DayOfTheWeekApp.core.dll
+C:\Users\user\source\repos\DayOfTheWeekApp\DayOfTheWeekApp.core\obj\Release\net5.0\DayOfTheWeekApp.core.pdb

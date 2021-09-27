@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Publisz Dayoftheweek\DayOfTheWeekApp.exe
+C:\Users\user\Desktop\Publisz Dayoftheweek\DayOfTheWeekApp.dll
+C:\Users\user\Desktop\Publisz Dayoftheweek\DayOfTheWeekApp.deps.json
+C:\Users\user\Desktop\Publisz Dayoftheweek\DayOfTheWeekApp.runtimeconfig.json
+C:\Users\user\Desktop\Publisz Dayoftheweek\DayOfTheWeekApp.pdb
+C:\Users\user\Desktop\Publisz Dayoftheweek\DayOfTheWeekApp.core.dll
+C:\Users\user\Desktop\Publisz Dayoftheweek\DayOfTheWeekApp.core.pdb
